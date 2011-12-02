@@ -1,0 +1,3 @@
+This is just a small bash script that opens 3 xterm windows. The size and the location of these windows is calculated based on the actual screen geometry.
+Actually, it is meant to be my first github repo for playing around with it ... ;-)
+
